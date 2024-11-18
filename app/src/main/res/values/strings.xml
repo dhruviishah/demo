@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CoinDemo</string>
+    <string name="search_text_hint">Search by name or symbol</string>
+    <string name="all_string">All</string>
+    <string name="active_string">Active</string>
+    <string name="type_string">Type</string>
+    <string name="new_string">New</string>
+</resources>
